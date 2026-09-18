@@ -1,0 +1,251 @@
+﻿movie_id,director_id,Title,Year,Rating,Votes,Runtime_minutes
+1,52,The Godfather,1972,9.2,2300000,175
+2,137,12 Angry Men,1957,9.0,1000000,96
+3,143,Schindler's List,1993,9.0,1600000,196
+4,54,The Shawshank Redemption,1994,9.3,3200000,142
+5,52,The Godfather Part II,1974,9.0,1500000,202
+6,24,The Dark Knight,2008,9.1,3200000,152
+7,109,Harakiri,1962,8.6,94000,133
+8,121,The Lord of the Rings: The Return of the King,2003,9.0,2200000,201
+9,16,Parasite,2019,8.5,1200000,132
+10,5,Seven Samurai,1954,8.6,406000,207
+11,135,"The Good, the Bad and the Ugly",1966,8.8,901000,178
+12,109,The Human Condition III: A Soldier's Prayer,1961,8.8,9100,190
+13,66,Spirited Away,2001,8.6,985000,124
+14,73,Grave of the Fireflies,1988,8.5,396000,88
+15,83,Spider-Man: Across the Spider-Verse,2023,8.5,553000,140
+16,108,GoodFellas,1990,8.7,1400000,145
+17,103,Your Name.,2016,8.4,405000,106
+18,89,Lemonade,2016,8.3,3800,65
+19,36,Dune: Part Two,2024,8.4,793000,166
+20,72,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,1500000,124
+21,15,Spider-Man: Into the Spider-Verse,2018,8.4,817000,117
+22,123,Pulp Fiction,1994,8.8,2500000,154
+23,62,A Dog's Will,2000,8.6,22000,104
+24,69,Woman in the Dunes,1964,8.4,26000,147
+25,115,One Flew Over the Cuckoo's Nest,1975,8.6,1200000,133
+26,90,The Silence of the Lambs,1991,8.6,1700000,118
+27,5,High and Low,1963,8.4,74000,143
+28,7,Psycho,1960,8.5,794000,109
+29,7,Rear Window,1954,8.4,574000,112
+30,146,Violet Evergarden: The Movie,2020,8.3,15000,140
+31,14,Witness for the Prosecution,1957,8.4,164000,116
+32,98,City of God,2002,8.6,882000,130
+33,5,Ikiru,1952,8.3,104000,143
+34,53,It's a Wonderful Life,1946,8.6,559000,130
+35,14,Sunset Boulevard,1950,8.4,264000,110
+36,23,Modern Times,1936,8.5,288000,87
+37,111,Casablanca,1942,8.5,661000,102
+38,39,A Brighter Summer Day,1991,8.2,15000,237
+39,139,Singin' in the Rain,1952,8.3,286000,103
+40,130,Back to the Future,1985,8.5,1500000,116
+41,143,Saving Private Ryan,1998,8.6,1700000,169
+42,141,Paths of Glory,1957,8.4,243000,88
+43,135,Once Upon a Time in the West,1968,8.5,388000,145
+44,52,Apocalypse Now,1979,8.4,778000,147
+45,152,Hamilton,2020,8.3,143000,160
+46,109,Samurai Rebellion,1967,8.3,16000,128
+47,66,Princess Mononoke,1997,8.3,491000,133
+48,59,Star Wars: Episode IV - A New Hope,1977,8.6,1600000,121
+49,74,Le Trou,1960,8.5,24000,131
+50,4,Coco,2017,8.4,727000,105
+51,161,Das Boot,1981,8.3,291000,149
+52,97,Sansho the Bailiff,1954,8.3,20000,124
+53,23,City Lights,1931,8.5,218000,87
+54,64,Good Will Hunting,1997,8.4,1200000,126
+55,141,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,555000,95
+56,164,Tokyo Story,1953,8.1,79000,137
+57,75,Terminator 2: Judgment Day,1991,8.6,1300000,137
+58,126,Alien,1979,8.4,1100000,117
+59,132,The Lion King,1994,8.5,1300000,88
+60,134,The World of Apu,1959,8.4,21000,105
+61,75,Aliens,1986,8.4,848000,137
+62,13,A Separation,2011,8.3,280000,123
+63,23,The Kid,1921,8.2,147000,68
+64,41,Come and See,1985,8.3,127000,142
+65,9,WALL·E,2008,8.4,1300000,98
+66,118,The Handmaiden,2016,8.1,208000,145
+67,51,The Father,2020,8.2,250000,97
+68,92,All About Eve,1950,8.2,151000,138
+69,125,Before Sunrise,1995,8.1,384000,101
+70,164,Late Spring,1949,8.2,22000,110
+71,128,A Man Escaped,1956,8.1,31000,101
+72,38,Il sorpasso,1962,8.2,15000,108
+73,148,The First Slam Dunk,2022,8.0,13000,124
+74,87,Toy Story,1995,8.3,1200000,81
+75,23,The Great Dictator,1940,8.4,260000,125
+76,24,Memento,2000,8.4,1500000,113
+77,5,Ran,1985,8.2,155000,160
+78,30,Portrait of a Lady on Fire,2019,8.0,130000,122
+79,14,Double Indemnity,1944,8.3,183000,107
+80,65,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020,8.2,103000,117
+81,112,The Red Shoes,1948,8.1,44000,135
+82,8,Stalker,1979,8.0,158000,162
+83,47,A Special Day,1977,8.1,19000,103
+84,108,The Departed,2006,8.5,1600000,151
+85,14,The Apartment,1960,8.3,223000,125
+86,21,Klaus,2019,8.2,243000,96
+87,110,La haine,1995,8.1,232000,98
+88,58,Metropolis,1927,8.2,203000,150
+89,134,Pather Panchali,1955,8.2,42000,125
+90,120,Up,2009,8.3,1300000,96
+91,116,Citizen Kane,1941,8.2,497000,119
+92,73,The Tale of The Princess Kaguya,2013,8.0,63000,137
+93,8,The Mirror,1975,7.9,58000,107
+94,67,Evangelion: 3.0+1.0 Thrice Upon a Time,2021,8.0,19000,155
+95,49,Nights of Cabiria,1957,8.1,58000,110
+96,2,Where Is the Friend's House?,1987,8.1,24000,83
+97,86,The Treasure of the Sierra Madre,1948,8.2,143000,126
+98,93,The Shop on Main Street,1965,8.2,11000,128
+99,31,Fight Club,1999,8.8,2700000,139
+100,67,Neon Genesis Evangelion: The End of Evangelion,1997,8.1,79000,87
+101,91,Top Gun: Maverick,2022,8.2,906000,130
+102,114,The Cranes Are Flying,1957,8.3,23000,95
+103,39,Yi Yi,2000,8.1,35000,173
+104,7,North by Northwest,1959,8.2,372000,136
+105,5,Rashomon,1950,8.1,199000,88
+106,106,Children of Paradise,1945,8.3,23000,189
+107,147,Godzilla Minus One,2023,7.6,231000,124
+108,56,The 400 Blows,1959,8.0,136000,99
+109,164,Early Summer,1951,8.0,11000,125
+110,100,The Ascent,1977,8.2,13000,111
+111,99,The Matrix,1999,8.7,2300000,136
+112,50,The Lives of Others,2006,8.4,447000,137
+113,143,Raiders of the Lost Ark,1981,8.4,1100000,115
+114,157,Central Station,1998,8.0,52000,110
+115,122,The Truman Show,1998,8.2,1400000,103
+116,104,Wolf Children,2012,8.1,56000,117
+117,47,We All Loved Each Other So Much,1974,8.0,9100,124
+118,20,The Passion of Joan of Arc,1928,8.1,69000,114
+119,36,Incendies,2010,8.3,259000,131
+120,24,Oppenheimer,2023,8.2,1100000,180
+121,60,The Sting,1973,8.2,306000,129
+122,160,"Paris, Texas",1984,8.1,145000,145
+123,134,Aparajito,1956,8.2,20000,110
+124,70,A Taxi Driver,2017,7.9,39000,137
+125,22,The Third Man,1949,8.1,197000,104
+126,61,The Battle of Algiers,1966,8.1,77000,121
+127,35,How to Train Your Dragon,2010,8.1,909000,98
+128,9,Finding Nemo,2003,8.2,1200000,100
+129,94,Tampopo,1985,7.9,27000,114
+130,5,Sanjuro,1962,8.0,44000,96
+131,20,Ordet,1955,8.2,19000,126
+132,18,The Usual Suspects,1995,8.5,1300000,106
+133,119,There Will Be Blood,2007,8.2,719000,158
+134,158,Devils on the Doorstep,2000,8.2,9500,139
+135,113,Eternal Sunshine of the Spotless Mind,2004,8.3,1200000,108
+136,32,Lawrence of Arabia,1962,8.3,346000,227
+137,16,Memories of Murder,2003,8.1,275000,131
+138,34,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,1100000,130
+139,27,Unforgiven,1992,8.2,473000,130
+140,150,Monty Python and the Holy Grail,1975,8.1,608000,91
+141,49,8½,1963,8.0,134000,138
+142,165,Raise the Red Lantern,1991,8.1,38000,125
+143,68,Still Walking,2008,7.9,21000,115
+144,81,Le Samouraï,1967,8.0,67000,101
+145,8,Ivan's Childhood,1962,8.0,44000,95
+146,44,Time of the Gypsies,1988,8.1,35000,142
+147,54,The Green Mile,1999,8.6,1600000,189
+148,71,Scenes from a Marriage,1974,8.3,11000,169
+149,123,Reservoir Dogs,1992,8.2,1200000,99
+150,141,Full Metal Jacket,1987,8.2,860000,116
+151,71,Persona,1966,8.0,142000,83
+152,162,In the Mood for Love,2000,8.0,192000,98
+153,7,Vertigo,1958,8.2,463000,128
+154,19,Sherlock Jr.,1924,8.1,67000,45
+155,149,The Disappearance of Haruhi Suzumiya,2010,8.0,9100,162
+156,71,Wild Strawberries,1957,8.1,126000,92
+157,156,Heart of a Dog,1988,8.5,11000,136
+158,8,Andrei Rublev,1966,8.0,61000,205
+159,145,Rascal Does Not Dream of a Dreaming Girl,2019,8.3,11000,89
+160,45,To Be or Not to Be,1942,8.1,50000,99
+161,42,On the Waterfront,1954,8.1,181000,108
+162,166,The Twilight Samurai,2002,8.0,27000,129
+163,124,Fear Eats the Soul,1974,8.0,26000,93
+164,117,Anatomy of a Murder,1959,8.0,79000,161
+165,71,Fanny and Alexander,1982,8.1,72000,322
+166,97,The Life of Oharu,1952,8.0,8500,133
+167,20,Day of Wrath,1943,8.0,12000,97
+168,101,Make Way for Tomorrow,1937,8.1,11000,91
+169,154,American History X,1998,8.5,1300000,119
+170,115,Amadeus,1984,8.4,473000,160
+171,135,For a Few Dollars More,1965,8.2,304000,132
+172,140,Judgment at Nuremberg,1961,8.3,99000,179
+173,71,The Seventh Seal,1957,8.1,218000,96
+174,142,12 Years a Slave,2013,8.1,795000,134
+175,143,Catch Me If You Can,2002,8.1,1300000,141
+176,120,"Monsters, Inc.",2001,8.1,1100000,92
+177,11,The Second Mother,2015,7.8,20000,112
+178,23,The Circus,1928,8.1,39000,72
+179,144,Jujutsu Kaisen 0,2021,7.8,67000,112
+180,68,Shoplifters,2018,7.9,97000,121
+181,5,The Bad Sleep Well,1960,7.9,16000,151
+182,75,The Terminator,1984,8.1,1000000,107
+183,78,Justice League: The Flashpoint Paradox,2013,8.1,67000,75
+184,159,The Heiress,1949,8.1,19000,115
+185,107,The Holy Innocents,1984,8.1,5400,107
+186,80,Amélie,2001,8.2,847000,122
+187,102,The Young and the Damned,1950,8.2,24000,80
+188,143,Jurassic Park,1993,8.2,1200000,127
+189,46,No Country for Old Men,2007,8.2,1200000,122
+190,1,Like Stars on Earth,2007,8.3,236000,162
+191,129,To Kill a Mockingbird,1962,8.2,353000,129
+192,125,Before Sunset,2004,8.1,320000,80
+193,88,Die Hard,1988,8.2,1000000,132
+194,78,"Batman: The Dark Knight Returns, Part 2",2013,8.3,62000,76
+195,49,La Dolce Vita,1960,8.0,87000,174
+196,63,Pan's Labyrinth,2006,8.2,753000,118
+197,137,Dog Day Afternoon,1975,8.0,295000,125
+198,6,Waiting for the Hearse,1985,8.0,8600,94
+199,17,Ratatouille,2007,8.1,966000,111
+200,32,The Bridge on the River Kwai,1957,8.1,251000,161
+201,151,An Adventure in Space and Time,2013,8.2,7900,86
+202,79,Grand Illusion,1937,8.0,41000,113
+203,153,Spotlight,2015,8.1,541000,129
+204,37,Short Term 12,2013,7.9,96000,96
+205,25,How the Grinch Stole Christmas!,1966,8.3,67000,26
+206,10,Bangalore Days,2014,8.3,29000,171
+207,118,Oldboy,2003,8.3,733000,120
+208,12,Avengers: Infinity War,2018,8.4,1400000,149
+209,165,To Live,1994,8.3,23000,133
+210,95,Farewell My Concubine,1993,8.1,38000,171
+211,68,Nobody Knows,2004,8.0,36000,141
+212,33,The Elephant Man,1980,8.2,284000,124
+213,84,Fargo,1996,8.1,797000,98
+214,82,In the Name of the Father,1993,8.1,205000,133
+215,29,Z,1969,8.1,34000,127
+216,105,Ghost in the Shell,1995,7.9,177000,83
+217,120,Soul,2020,8.0,458000,100
+218,40,Office Romance,1977,8.2,12000,159
+219,160,Perfect Days,2023,7.9,112000,124
+220,57,Safety Last!,1923,8.1,25000,74
+221,159,The Best Years of Our Lives,1946,8.1,77000,170
+222,53,Mr. Smith Goes to Washington,1939,8.1,130000,129
+223,48,Sunrise,1927,8.1,57000,94
+224,26,My Life as a Zucchini,2016,7.8,33000,70
+225,71,Through a Glass Darkly,1961,7.9,30000,90
+226,155,Shoeshine,1946,8.0,9100,91
+227,138,Andhadhun,2018,8.2,118000,139
+228,163,Mommy,2014,8.0,66000,139
+229,96,Akira,1988,8.0,232000,124
+230,28,The General,1926,8.1,106000,78
+231,127,Stand by Me,1986,8.1,495000,89
+232,76,Ford v Ferrari,2019,8.1,587000,152
+233,136,I Want to Eat Your Pancreas,2018,8.1,38000,109
+234,45,The Shop Around the Corner,1940,8.0,45000,99
+235,133,Chinatown,1974,8.1,380000,130
+236,43,Investigation of a Citizen Above Suspicion,1970,8.0,16000,115
+237,3,Dilwale Dulhania Le Jayenge,1995,8.0,87000,181
+238,97,Ugetsu,1953,8.1,29000,96
+239,131,Life Is Beautiful,1997,8.6,823000,116
+240,31,Seven,1995,8.6,2100000,127
+241,66,Howl's Moving Castle,2004,8.2,522000,119
+242,123,Django Unchained,2012,8.5,1900000,165
+243,123,Inglourious Basterds,2009,8.4,1800000,153
+244,68,Monster,2023,7.8,43000,127
+245,155,Umberto D.,1952,8.1,31000,89
+246,167,Werckmeister Harmonies,2000,7.9,18000,145
+247,56,Day for Night,1973,8.0,27000,116
+248,55,Marketa Lazarová,1967,7.8,6800,162
+249,77,"Quo Vadis, Aida?",2020,8.0,42000,101
+250,85,The Grapes of Wrath,1940,8.1,108000,129
