@@ -1,1 +1,26 @@
-.
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Raw scraped data
+data/raw/movies_raw.json
+
+# Local database / large generated data
+*.bak
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
